@@ -1,2 +1,2 @@
-# ReactComponentPractice
+# ReactComponents
 Created with CodeSandbox
